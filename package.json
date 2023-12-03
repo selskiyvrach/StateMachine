@@ -1,0 +1,15 @@
+{
+  "name": "com.selskiyvrach.state_machine",
+  "version": "1.0.0",
+  "displayName": "[SelskiyVrach] State Machine",
+  "unity": "2022.3",
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Ivan Kriuchkov"
+  },
+  "description": "Type-based state machine"
+}
